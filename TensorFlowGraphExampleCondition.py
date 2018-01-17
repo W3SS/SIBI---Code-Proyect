@@ -45,7 +45,7 @@ with tf.Session(graph=g) as sess:
                              'tf_y:0': y}))
               
 
-#writter0.close()             
+writter0.close()             
                   
     
     
